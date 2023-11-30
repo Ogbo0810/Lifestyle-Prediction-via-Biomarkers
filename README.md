@@ -1,4 +1,4 @@
-# Lifestyle-Prediction-via-Biomarkers-
+# Lifestyle-Prediction-via-Biomarkers
 This project leverages machine learning algorithms to predict lifestyle based on biological measurements and results
 
 The specific aims for our lifestyle prediction project are as follows:
